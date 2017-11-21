@@ -1,6 +1,6 @@
 RISCV simulator (with pipeline)
 ===
-Author: Jiang Borui 
+Author: Jiang Borui
 Date: 2017/11/21 
 
 ### How to compiler and run
